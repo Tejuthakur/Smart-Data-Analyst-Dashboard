@@ -24,8 +24,10 @@ An interactive AI-powered data analysis dashboard that helps users explore datas
 ## 🛠️ Tech Stack
 - Python
 - Pandas
-- Streamlit / Flask
-- AI API
+- Streamlit 
+- Groq API
+- Ploty
+  
 
 ---
 
