@@ -29,7 +29,7 @@ Smart-Data-Analyst-Dashboard/
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
 
--git clone https://github.com/your-username/smart-data-analyst-dashboard.git
+-git clone https://github.com/Tejuthakur/Smart-Data-Analyst-Dashboard.git
 
 -cd smart-data-analyst-dashboard
 
